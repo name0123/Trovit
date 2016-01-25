@@ -1,6 +1,6 @@
 {
   "name": "Trovit Project"
-, "files": [ { "git": 1 } ]
+, "files": [ { "git": 1 }]
 , "build": {
     "directory": "platforms/android/build"
   , "build": "make all"
